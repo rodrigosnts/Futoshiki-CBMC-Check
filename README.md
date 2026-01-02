@@ -59,7 +59,7 @@ To run CBMC and verify the program, run the command: `cbmc futoshiki.c`
 ## Expected Output
 
 ### Base Implementation
-On the first implementation of the code, it's expected to get the following output:
+With the first implementation of the code, it's expected to get the following output:
 ```bash
 ** 1 of 83 failed (2 iterations) 
 VERIFICATION FAILED. 
